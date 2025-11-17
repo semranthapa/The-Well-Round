@@ -1,0 +1,22 @@
+body { 
+    font-family:Arial, sans-serif;
+    background: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    color: #ffb6c1;
+
+}
+nav{
+    background: #4a4e69;
+    color: white;
+    padding: 15px;
+}
+.container {
+    padding: 20px;
+}
+h1 {
+    font-family: "Brush Script MT", "Lucida Handwriting", cursive;
+    color: #ffb6c1;
+    font-size: 3rem;
+    margin-top: 0;
+}
